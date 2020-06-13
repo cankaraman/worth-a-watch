@@ -1,8 +1,8 @@
 import React from "react";
-import "./App.css";
+import Season from "./components/Season";
 
 function App() {
-  return <div className="App" />;
+  return <Season />;
 }
 
 export default App;
